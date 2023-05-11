@@ -124,7 +124,6 @@ Activity_main.xml:-
 
 ## OUTPUT
 
-![r](hey.png)
 
 
 ## RESULT
