@@ -33,8 +33,7 @@ Developed by: NAVEEN KUMAR M
 Registeration Number :212221040113
 */
 ```
-```
-MainActivity.java:-
+## MainActivity.java:-
 ```
 package com.example.helloworld;
 import androidx.appcompat.app.AppCompatActivity;
@@ -98,9 +97,8 @@ public class MainActivity extends AppCompatActivity {
 }
 
 ```
-Activity_main.xml:-
+## Activity_main.xml:-
 ```
-
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -126,7 +124,6 @@ Activity_main.xml:-
 ```
 
 ## OUTPUT
-
 
 
 
