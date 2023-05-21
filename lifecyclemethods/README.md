@@ -131,6 +131,15 @@ public class MainActivity extends AppCompatActivity {
 ## onCreate()
 ![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/9cb0a129-1e6e-4070-9d46-e883a3c5ffa8)
 
+## onRestart()
+![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/65457888-9a0f-453c-a7f0-238718ce93b3)
+
+## onPause()
+![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/65590a7f-907f-4322-a343-e0e9dfb07f04)
+
+## onResume()
+![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/54f82a3d-ab7a-4122-9c62-8465d6c1271f)
+
 ## onDestroy()
 ![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/832d0445-3278-48e4-b718-7f0c030f73d1)
 
