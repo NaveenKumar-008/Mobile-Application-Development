@@ -148,7 +148,6 @@ Registeration Number :212221040113
 
 ## OUTPUT:
    
-   ![xml](https://github.com/HariHaranLK/exp2/assets/132996089/0a2161d3-b710-4d9f-b68b-a6c6da46c6d4) <br>
    ![1](https://github.com/HariHaranLK/exp2/assets/132996089/b8b0f459-6f99-4f93-8eb6-7bb3bedea355) <br>
    ![2](https://github.com/HariHaranLK/exp2/assets/132996089/d1c087eb-2ecd-4232-be79-060657466d7e) <br>
    ![3](https://github.com/HariHaranLK/exp2/assets/132996089/f7cbe2f7-2997-4fe1-8584-8d205737c6d9) <br>
