@@ -148,7 +148,7 @@ Registeration Number :212221040113
 
 ## OUTPUT:
    
-  ![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/59eccc13-90e9-4e0c-9360-6007c82ee610)
+  ![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/59eccc13-90e9-4e0c-9360-6007c82ee610)  
   ![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/8dc521e7-3138-444e-a108-58762564cce0)
 
 ## RESULT:
