@@ -130,9 +130,9 @@ Registeration Number : 212221040113
 
 ## OUTPUT:
 
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/177d9a63-3b02-471b-8efe-ac2ede36e5db)
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/f802870c-7517-4e74-91f1-cbabb8785e5b)
-![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/f307b0b6-c3f1-4c6d-bf9f-c893c2f10e1a)
+![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/177d9a63-3b02-471b-8efe-ac2ede36e5db)  
+![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/f802870c-7517-4e74-91f1-cbabb8785e5b)  
+![image](https://github.com/NaveenKumar-008/Mobile-Application-Development/assets/128135244/f307b0b6-c3f1-4c6d-bf9f-c893c2f10e1a)  
 
 ## RESULT:
 Thus a Simple Android Application to create a gallery control using android studio to display images or photos is developed and executed successfully.
